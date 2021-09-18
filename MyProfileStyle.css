@@ -1,9 +1,15 @@
-﻿body {
-    background-color: lightblue;
+﻿html {
+    background-color: darkgray;
+}
+body {
+    background-color: lightgray;
     font-family: monospace;
     font-size: large;
     text-align: center;
     margin-left: 200px;
     margin-right: 200px;
-    margin-bottom: 150px;
+    margin-bottom: 100px;
+}
+ul {
+    list-style-type: none;
 }
